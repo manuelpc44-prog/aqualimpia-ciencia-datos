@@ -36,8 +36,11 @@ aqualimpia/
 │   └── area_gestion_ambiental.xlsx            # Salida para Gestión Ambiental
 ├── dashboard/
 │   └── dashboard_aqualimpia.png               # Dashboard exploratorio (6 gráficos)
-└── docs/
-    └── README.md                              # Esta documentación
+│
+│
+└── ── README.md                              # Esta documentación
+
+   
 ```
 
 ---
