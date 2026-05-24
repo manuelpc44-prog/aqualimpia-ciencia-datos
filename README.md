@@ -26,21 +26,18 @@
 
 ```
 aqualimpia/
+├── dashboard/
+│   └── dashboard_aqualimpia.png               # Dashboard exploratorio (6 gráficos)  
 ├── data/
-│   └── dataset_set_A_aguas_residuales.xlsx   # Dataset original
-├── scripts/
-│   ├── utils.py                               # Módulo reutilizable (NumPy, SciPy, Joblib)
-│   └── analisis_aqualimpia.py                 # Script principal de análisis
+│   └── dataset_set_A_aguas_residuales.xlsx    # Dataset original
 ├── outputs/
 │   ├── area_operaciones.xlsx                  # Salida para Área de Operaciones
 │   └── area_gestion_ambiental.xlsx            # Salida para Gestión Ambiental
-├── dashboard/
-│   └── dashboard_aqualimpia.png               # Dashboard exploratorio (6 gráficos)
-│
-│
-└── ── README.md                              # Esta documentación
-
-   
+├── scripts/
+│   └── utils.py                               # Módulo reutilizable (NumPy, SciPy, Joblib)
+│   └── analisis_aqualimpia.py                 # Script principal de análisis
+└── ── README.md                               # Esta documentación
+└── ── aqualimpia_Ciencia _de_Datos.ipynb
 ```
 
 ---
