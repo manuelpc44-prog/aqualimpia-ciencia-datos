@@ -144,8 +144,8 @@ python scripts/analisis_aqualimpia.py
 - Virtanen, P. et al. (2020). SciPy 1.0: Fundamental algorithms for scientific computing. *Nature Methods, 17*, 261–272.
 - IACC. (2025). *Ciencia de Datos. Semana 8*. Instituto Profesional IACC.
 - Decreto Supremo N°90 (2000). Establece norma de emisión para la regulación de contaminantes asociados a las descargas de residuos líquidos a aguas marinas y continentales superficiales. 
-- Puntos clave del decreto:
-- Límites máximos permisibles: Establece los estándares (LMP) de concentración para diversos contaminantes (físicos, químicos y biológicos) que pueden contener los riles (residuos industriales líquidos) antes de ser vertidos.
-- Cuerpos receptores: Aplica a descargas realizadas en ríos, lagos, embalses, estuarios, y el mar. 
-- Monitoreo obligatorio: Exige a las empresas y actividades reguladas medir sus niveles de emisión y reportarlos a las autoridades fiscalizadoras
+  Puntos clave del decreto:
+  Límites máximos permisibles: Establece los estándares (LMP) de concentración para diversos contaminantes (físicos, químicos y biológicos) que pueden contener los riles (residuos industriales líquidos) antes de ser vertidos.
+  Cuerpos receptores: Aplica a descargas realizadas en ríos, lagos, embalses, estuarios, y el mar. 
+  Monitoreo obligatorio: Exige a las empresas y actividades reguladas medir sus niveles de emisión y reportarlos a las autoridades fiscalizadoras
 Ministerio Secretaría General de la Presidencia de Chile.
