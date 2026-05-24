@@ -37,7 +37,7 @@ aqualimpia/
 │   └── utils.py                               # Módulo reutilizable (NumPy, SciPy, Joblib)
 │   └── analisis_aqualimpia.py                 # Script principal de análisis
 └── ── README.md                               # Esta documentación
-└── ── aqualimpia_Ciencia _de_Datos.ipynb
+└── ── aqualimpia_Ciencia _de_Datos.ipynb      # trabajo realizado en colab guardado en el repositorio github
 ```
 
 ---
